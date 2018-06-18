@@ -7,9 +7,6 @@
     "nombre" : "Alemania"
   },
   {
-    "nombre" : "Andorra"
-  },
-  {
     "nombre" : "Argelia"
   },
   {
@@ -22,37 +19,10 @@
     "nombre" : "Australia"
   },
   {
-    "nombre" : "Azerbayán"
-  },
-  {
     "nombre" : "Bahamas"
   },
   {
-    "nombre" : "Bahrein"
-  },
-  {
-    "nombre" : "Barbados"
-  },
-  {
-    "nombre" : "Bélgica"
-  },
-  {
-    "nombre" : "Bosnia"
-  },
-  {
-    "nombre" : "Brasil"
-  },
-  {
-    "nombre" : "Bulgaria"
-  },
-  {
     "nombre" : "Camboya"
-  },
-  {
-    "nombre" : "China"
-  },
-  {
-    "nombre" : "Colombia"
   },
   {
     "nombre" : "Costa de Marfil"
@@ -76,64 +46,28 @@
     "nombre" : "El Salvador"
   },
   {
-    "nombre" : "Estonia"
-  },
-  {
     "nombre" : "Etiopía"
   },
   {
     "nombre" : "Fiji"
   },
   {
-    "nombre" : "Finlandia"
-  },
-  {
     "nombre" : "Francia"
-  },
-  {
-    "nombre" : "Gabón"
   },
   {
     "nombre" : "Gambia"
   },
   {
-    "nombre" : "Georgia"
-  },
-  {
     "nombre" : "Grecia"
-  },
-  {
-    "nombre" : "Guatemala"
-  },
-  {
-    "nombre" : "Guinea"
   },
   {
     "nombre" : "Haití"
   },
   {
-    "nombre" : "Honduras"
-  },
-  {
     "nombre" : "Hungría"
   },
   {
-    "nombre" : "India"
-  },
-  {
-    "nombre" : "Indonesia"
-  },
-  {
-    "nombre" : "Irán"
-  },
-  {
-    "nombre" : "Irak"
-  },
-  {
     "nombre" : "Irlanda"
-  },
-  {
-    "nombre" : "Islandia"
   },
   {
     "nombre" : "Italia"
@@ -142,34 +76,10 @@
     "nombre" : "Jamaica"
   },
   {
-    "nombre" : "Japón"
-  },
-  {
     "nombre" : "Jordania"
   },
   {
-    "nombre" : "Kazajstán"
-  },
-  {
     "nombre" : "Kenia"
-  },
-  {
-    "nombre" : "Kuwait"
-  },
-  {
-    "nombre" : "Laos"
-  },
-  {
-    "nombre" : "Libano"
-  },
-  {
-    "nombre" : "Lesotho"
-  },
-  {
-    "nombre" : "Liberia"
-  },
-  {
-    "nombre" : "Libia"
   },
   {
     "nombre" : "Lituania"
@@ -178,28 +88,7 @@
     "nombre" : "Macedonia"
   },
   {
-    "nombre" : "Madagascar"
-  },
-  {
-    "nombre" : "Malasia"
-  },
-  {
-    "nombre" : "Malta"
-  },
-  {
-    "nombre" : "Marruecos"
-  },
-  {
-    "nombre" : "Mauritania"
-  },
-  {
     "nombre" : "México"
-  },
-  {
-    "nombre" : "Mónaco"
-  },
-  {
-    "nombre" : "Namibia"
   },
   {
     "nombre" : "Nepal"
@@ -208,58 +97,16 @@
     "nombre" : "Nueva Zelanda"
   },
   {
-    "nombre" : "Omán"
-  },
-  {
-    "nombre" : "Pakistán"
-  },
-  {
-    "nombre" : "Panamá"
-  },
-  {
-    "nombre" : "Paraguay"
-  },
-  {
-    "nombre" : "Perú"
-  },
-  {
-    "nombre" : "Polonia"
-  },
-  {
     "nombre" : "Portugal"
   },
   {
     "nombre" : "Rumanía"
   },
   {
-    "nombre" : "Rusia"
-  },
-  {
-    "nombre" : "Samoa"
-  },
-  {
-    "nombre" : "San Marino"
-  },
-  {
     "nombre" : "Senegal"
   },
   {
-    "nombre" : "Serbia"
-  },
-  {
-    "nombre" : "Seychelles"
-  },
-  {
-    "nombre" : "Sierra Leona"
-  },
-  {
-    "nombre" : "Singapur"
-  },
-  {
     "nombre" : "Somalia"
-  },
-  {
-    "nombre" : "Sudáfrica"
   },
   {
     "nombre" : "Sri Lanka"
@@ -268,16 +115,10 @@
     "nombre" : "Suiza"
   },
   {
-    "nombre" : "Tanzania"
-  },
-  {
     "nombre" : "Tailandia"
   },
   {
     "nombre" : "Togo"
-  },
-  {
-    "nombre" : "Tonga"
   },
   {
     "nombre" : "Trinidad y Tobago"
@@ -290,9 +131,6 @@
   },
   {
     "nombre" : "Uruguay"
-  },
-  {
-    "nombre" : "Uzbekistán"
   },
   {
     "nombre" : "Venezuela"
